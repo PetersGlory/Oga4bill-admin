@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Material Dashboard 2 React - v2.2.0
+* Oga4bill React - v2.2.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-dashboard-react
@@ -14,15 +14,15 @@ Coded by www.creative-tim.com
 */
 
 /**
- * The base box-shadow styles for the Material Dashboard 2 React.
+ * The base box-shadow styles for the Oga4bill React.
  * You can add new box-shadow using this file.
- * You can customized the box-shadow for the entire Material Dashboard 2 React using thie file.
+ * You can customized the box-shadow for the entire Oga4bill React using thie file.
  */
 
-// Material Dashboard 2 React Base Styles
+// Oga4bill React Base Styles
 import colors from "assets/theme-dark/base/colors";
 
-// Material Dashboard 2 React Helper Functions
+// Oga4bill React Helper Functions
 import boxShadow from "assets/theme-dark/functions/boxShadow";
 
 const { black, dark, tabs, coloredShadows } = colors;
